@@ -1,0 +1,27 @@
+body {
+  background-color: #FFC4C4;
+}
+h1 {
+  color: #A10035;
+}
+img {
+  border-radius: 50%;
+}
+#name {
+  font-size: 40px;
+}
+p {
+  font-size: 20px;
+}
+li {
+  font-size: 20px;
+}
+hr {
+  background-color: #A10035;
+  border-style: none;
+  border-top-style: none;
+  height: 2px;
+  border-color: grey;
+  border-width: 5px;
+  width: 63%;
+}
